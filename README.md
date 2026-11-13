@@ -25,3 +25,11 @@ Enlace de la propia web de [Github](https://github.com).
 
 git status
 **Esto ha sido modificado por web.**
+
+## Instalación y clonación
+
+Para descargar este proyecto en local ejecuta:
+
+```bash
+git clone <url-del-repositorio>
+
